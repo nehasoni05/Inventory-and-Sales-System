@@ -1,6 +1,6 @@
 # Inventory-and-Sales-System
 This is a swing based application using JAVA as frontend and ORACLE as backend for their Inventory and Sales maintenance.
-As we are using Oracle database in this project so here are the database commands that you have to execute in you database.
+As I have used Oracle Database in this project so here are the database commands that I have executed in my database.
 1) Create the table called TBL_STOCK :-
 
 create table TBL_STOCK
